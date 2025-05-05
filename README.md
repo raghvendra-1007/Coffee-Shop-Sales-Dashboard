@@ -69,7 +69,7 @@ This repository contains a **visually interactive dashboard** built in **Microso
 
 ## 📌 Author
 
-- **Created by**: [Your Name]
+- **Created by**: Raghvendra Sharma.
 - **For any queries**, feel free to raise an issue or contact me directly.
 
 ---
